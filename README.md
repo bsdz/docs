@@ -5,6 +5,7 @@ A collection of notebooks and papers by Blair Azzopardi.
 - [Basket & Asian Option Pricing](<papers/Basket & Asian Option Pricing.pdf>)
 - [Long & Short Trading Strategy Design & Backtest](<papers/Long & Short Trading Strategy Design & Backtest.pdf>)
 - [Stable Probability Densities using FFTs and Newton-Cote](<papers/Stable Probability Densities using FFTs and Newton-Cote.pdf>)
+- [Notes on Curves and Jacobians](<papers/Notes on Curves and Jacobians.pdf>)
 
 # Notebooks
 
